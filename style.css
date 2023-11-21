@@ -1,0 +1,49 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+    background-color:rgb(32, 32, 32)
+}
+
+.button {
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    width: 65px;
+    border-radius: 5px;
+    box-shadow: -3px -3px 4px black;
+    background:transparent;
+    font-size: 15px;
+    color: rgb(251, 246, 246);
+    cursor: pointer;
+    
+}
+
+.row {
+    margin: 8px 0;
+}
+
+.row input {
+    margin: 20px;
+    padding: 11px 0;
+    border: 2px solid rgb(157, 155, 156);
+    border-radius: 5px;
+}
+h1{
+    display: block;
+    font-size: 2rem;
+    margin-block-start: 0.67em;
+    font-weight: lighter;
+}
+h1{
+    color:#1fbae8;
+    
+}
+.row input{
+    text-align: right;
+    flex: 1;
+    font-size: 18px;
+    box-shadow: none;
+}
